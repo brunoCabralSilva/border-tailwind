@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/border-tailwind/static/css/main.93fd4346.css",
+    "main.js": "/border-tailwind/static/js/main.36500dab.js",
+    "static/media/mountains.jpg": "/border-tailwind/static/media/mountains.0eebcae4ff16fa8e85f7.jpg",
+    "index.html": "/border-tailwind/index.html",
+    "main.93fd4346.css.map": "/border-tailwind/static/css/main.93fd4346.css.map",
+    "main.36500dab.js.map": "/border-tailwind/static/js/main.36500dab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93fd4346.css",
+    "static/js/main.36500dab.js"
+  ]
+}
